@@ -5,7 +5,7 @@ var cashG,diamondsG,jwelleryG,swordGroup;
 var gameState = 0;
 var end = 1;
 var play = 0;
-var ended
+var ended;
 
 function preload(){
   pathImg = loadImage("Road.png");
